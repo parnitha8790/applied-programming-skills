@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/parnitha8790/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/parnitha8790/applied-programming-skills/tree/master/0704-binary-search) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/parnitha8790/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
