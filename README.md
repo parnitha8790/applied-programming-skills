@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/parnitha8790/applied-programming-skills/tree/master/0704-binary-search) |
+| [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parnitha8790/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -38,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
