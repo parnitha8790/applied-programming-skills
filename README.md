@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -80,9 +82,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
