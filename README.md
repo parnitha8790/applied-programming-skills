@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parnitha8790/applied-programming-skills/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
