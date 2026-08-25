@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/parnitha8790/applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/parnitha8790/applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parnitha8790/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnitha8790/applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parnitha8790/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnitha8790/applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parnitha8790/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
