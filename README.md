@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parnitha8790/applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parnitha8790/applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnitha8790/applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnitha8790/applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parnitha8790/applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parnitha8790/applied-programming-skills/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
