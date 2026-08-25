@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/parnitha8790/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 ## Recursion
