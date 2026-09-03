@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [1600-throne-inheritance](https://github.com/parnitha8790/applied-programming-skills/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -140,9 +141,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/parnitha8790/applied-programming-skills/tree/master/0155-min-stack) |
+| [1600-throne-inheritance](https://github.com/parnitha8790/applied-programming-skills/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/parnitha8790/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/parnitha8790/applied-programming-skills/tree/master/1603-design-parking-system) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/parnitha8790/applied-programming-skills/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/parnitha8790/applied-programming-skills/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
