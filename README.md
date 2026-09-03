@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/parnitha8790/applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +140,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/parnitha8790/applied-programming-skills/tree/master/0155-min-stack) |
+| [1603-design-parking-system](https://github.com/parnitha8790/applied-programming-skills/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/parnitha8790/applied-programming-skills/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
