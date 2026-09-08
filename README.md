@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/parnitha8790/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/parnitha8790/applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/parnitha8790/applied-programming-skills/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/parnitha8790/applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/parnitha8790/applied-programming-skills/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
