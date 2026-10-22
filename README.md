@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/parnitha8790/applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/parnitha8790/applied-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/parnitha8790/applied-programming-skills/tree/master/0641-design-circular-deque) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/parnitha8790/applied-programming-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/parnitha8790/applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parnitha8790/applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/parnitha8790/applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 | [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/parnitha8790/applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/parnitha8790/applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 | [1600-throne-inheritance](https://github.com/parnitha8790/applied-programming-skills/tree/master/1600-throne-inheritance) |
 | [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## String
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parnitha8790/applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/parnitha8790/applied-programming-skills/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/parnitha8790/applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/parnitha8790/applied-programming-skills/tree/master/2418-sort-the-people) |
 ## Queue
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/parnitha8790/applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/parnitha8790/applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 | [1603-design-parking-system](https://github.com/parnitha8790/applied-programming-skills/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/parnitha8790/applied-programming-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
@@ -97,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parnitha8790/applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/parnitha8790/applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parnitha8790/applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parnitha8790/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -220,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/parnitha8790/applied-programming-skills/tree/master/0118-pascals-triangle) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/parnitha8790/applied-programming-skills/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
